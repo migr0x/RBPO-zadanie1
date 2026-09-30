@@ -1,0 +1,19 @@
+# Maven
+/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse / Spring Tool Suite
+.project
+.classpath
+.settings/
+.sts4-cache/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
